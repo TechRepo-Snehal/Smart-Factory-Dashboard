@@ -4,11 +4,6 @@
 
 A web-based real-time manufacturing dashboard that provides comprehensive monitoring of factory operations across multiple sites. The application displays sensor data, Manufacturing Execution System (MES) metrics, and Enterprise Resource Planning (ERP) information through an interactive interface. Built as a Flask web application with Bootstrap frontend, it serves mock data to simulate smart factory environments with site-specific variations. Features include sensor monitoring, production line status, work order tracking, and financial metrics with support for Germany and UK manufacturing sites with localized data including different currencies (EUR/GBP), production targets, and regional operational characteristics.
 
-## User Preferences
-
-Preferred communication style: Simple, everyday language.
-Design preferences: Light-colored cards (white-based) instead of dark colors for better text readability and clean font appearance.
-
 ## System Architecture
 
 ### Backend Architecture
